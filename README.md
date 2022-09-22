@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pritammandal1717
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Baruipur, Kolkata-700144
 
 <!---
