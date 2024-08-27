@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritammandal1717
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me Baruipur, Kolkata-700144
+- 📫 To reach me mail at : pritammandal1717@gmail.com
 
 <!---
 pritammandal1717/pritammandal1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
